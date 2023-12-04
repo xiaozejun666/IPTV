@@ -77,6 +77,8 @@ CCTV17,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3
 苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 港台频道,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 TVBS新闻,http://60.248.77.83/sat/tv551.flv
 TVBS新闻,http://116.93.98.236:8080/sat/tv551.flv
 TVBS新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1051
